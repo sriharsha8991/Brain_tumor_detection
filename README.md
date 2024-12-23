@@ -1,6 +1,6 @@
 # Brain Tumor MRI Analysis Application
 
-This is a Streamlit-based web application for detecting brain tumors in MRI scans using Google's Gemini AI and image processing techniques. It accepts MRI images as input, processes them, and provides tumor detection results with bounding boxes and confidence scores.
+This is a Streamlit-based web application for detecting brain tumors in MRI scans using Google's Gemini AI Hybrid UNET model and image processing techniques. It accepts MRI images as input, processes them, and provides tumor detection results with bounding boxes and confidence scores.
 
 ## Features
 - Upload MRI scans in `.jpg`, `.jpeg`, or `.png` formats.
